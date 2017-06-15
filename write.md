@@ -30,3 +30,6 @@
         -----|------|-----
         今天 | 很热 | 少穿
         昨天 | 下雨 | 打伞
+
+
+![Image](https://octodex.github.com/images/yaktocat.png)
